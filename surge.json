@@ -1,7 +1,6 @@
 {
-  "name":"TG频道@ligeicon 版本251105", 
+  "name":".", 
   "icons":[
-    {"name":"lige", "url":"https:\/\/raw.githubusercontent.com\/silencoo\/ebic\/main\/icon\/lige.png"},
     {"name":"Argentina", "url":"https:\/\/raw.githubusercontent.com\/silencoo\/ebic\/main\/icon\/Argentina.png"},
     {"name":"Argentina(1)", "url":"https:\/\/raw.githubusercontent.com\/silencoo\/ebic\/main\/icon\/Argentina(1).png"},
     {"name":"Argentina(2)", "url":"https:\/\/raw.githubusercontent.com\/silencoo\/ebic\/main\/icon\/Argentina(2).png"},
@@ -717,7 +716,7 @@
     {"name":"yuyanyun", "url":"https:\/\/raw.githubusercontent.com\/silencoo\/ebic\/main\/icon\/yuyanyun.png"},
     {"name":"yushe", "url":"https:\/\/raw.githubusercontent.com\/silencoo\/ebic\/main\/icon\/yushe.png"},
     {"name":"yunzhiyi", "url":"https:\/\/raw.githubusercontent.com\/silencoo\/ebic\/main\/icon\/yunzhiyi.png"},
-    {"name":"yztcloud", "url":"https:\/\/raw.githubusercontent.com\/silencoo\/ebic\/main\/icon\/yztcloud.png"},
+    {"name":"yztcloud", "url":"https:\/\/raw.githubusercontent.com\/silencoo\/ebic\/main\/icon\/yztcloud.png"}
   ]
 }
 

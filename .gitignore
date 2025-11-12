@@ -1,0 +1,16 @@
+# 忽略input文件夹
+input/
+
+# Python相关
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~
+
