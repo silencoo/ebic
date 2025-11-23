@@ -1,16 +1,16 @@
 ## 图标库链接：
 ### 适用  Quanx  Loon  Fileball Senplayer Yamby Hills
 ```ruby
-https://raw.githubusercontent.com/silencoo/ebic/main/ligeicon.json
+https://raw.githubusercontent.com/silencoo/ebic/main/icon.json
 ```
 ### 适用Surge
 ```ruby
-https://raw.githubusercontent.com/silencoo/ebic/main/ligeicon-surge.json
+https://raw.githubusercontent.com/silencoo/ebic/main/icon-surge.json
 ```
 
 ### emby专属图标库（建议 Fileball Senplayer  Yamby Hills使用）
 ```ruby
-https://raw.githubusercontent.com/silencoo/ebic/refs/heads/main/lige-emby-icon.json
+https://raw.githubusercontent.com/silencoo/ebic/refs/heads/main/emby-icon.json
 ```
 ## 使用教程
 https://github.com/silencoo/ebic/blob/main/jiaochen/README.md
