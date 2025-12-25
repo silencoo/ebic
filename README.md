@@ -7,14 +7,10 @@ https://raw.githubusercontent.com/silencoo/ebic/main/icon.json
 ```ruby
 https://raw.githubusercontent.com/silencoo/ebic/main/icon-surge.json
 ```
-
 ### emby专属图标库（建议 Fileball Senplayer  Yamby Hills使用）
 ```ruby
 https://raw.githubusercontent.com/silencoo/ebic/refs/heads/main/emby-icon.json
 ```
-## 使用教程
-https://github.com/silencoo/ebic/blob/main/jiaochen/README.md
-
 # 分流规则（自建）： 
 各大AI模型
 ```ruby
@@ -33,5 +29,3 @@ https://raw.githubusercontent.com/silencoo/ebic/main/scripts/UI-Action.json
 ```ruby 
 https://raw.githubusercontent.com/silencoo/ebic/main/scripts/wangluoxinxi.plugin
 ```
-## 补充说明
-转载请注明出处，谢谢！
