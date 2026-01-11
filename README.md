@@ -30,7 +30,8 @@ https://raw.githubusercontent.com/silencoo/ebic/main/scripts/UI-Action.json
 https://raw.githubusercontent.com/silencoo/ebic/main/scripts/wangluoxinxi.plugin
 ```
 
-```substore script operator
+# substore script operator
+```ruby
 https://raw.githubusercontent.com/silencoo/ebic/refs/heads/main/convert.min.js
 ```
 
