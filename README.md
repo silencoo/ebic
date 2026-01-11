@@ -29,3 +29,8 @@ https://raw.githubusercontent.com/silencoo/ebic/main/scripts/UI-Action.json
 ```ruby 
 https://raw.githubusercontent.com/silencoo/ebic/main/scripts/wangluoxinxi.plugin
 ```
+
+```substore script operator
+https://raw.githubusercontent.com/silencoo/ebic/refs/heads/main/convert.min.js
+```
+
