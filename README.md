@@ -1,4 +1,7 @@
 # 图标
+
+https://selfh.st/icons/
+
 ```
 https://raw.githubusercontent.com/silencoo/ebic/main/icon.json
 ```
