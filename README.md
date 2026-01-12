@@ -35,3 +35,9 @@ https://raw.githubusercontent.com/silencoo/ebic/main/scripts/wangluoxinxi.plugin
 https://raw.githubusercontent.com/silencoo/ebic/refs/heads/main/convert.min.js
 ```
 
+# vless 优选节点生成
+```ruby
+https://raw.githubusercontent.com/silencoo/ebic/refs/heads/main/workers.js
+```
+用法 https://<cloudflare-worker>/vless://<UUID>@<host>:<port>?encryption=none&security=tls&sni=<sni>&insecure=1&allowInsecure=1&type=ws&host=<host>&name=<name>&remark=<remark>
+
